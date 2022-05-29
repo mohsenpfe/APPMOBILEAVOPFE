@@ -1,0 +1,17 @@
+{
+  "name": "MobileAppAvo",
+  "displayName": "MobileAppAvo",
+  "expo": {
+    "name": "MobileAppAvo",
+    "slug": "MobileAppAvo",
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 3
+    },
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
